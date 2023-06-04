@@ -1,0 +1,10 @@
+There are two types of references:
+Mutable and Immutable
+
+Rules:
+
+There can only be one mutable reference 
+or multiple Immutable references at a time.
+
+
+References must always be valid.
