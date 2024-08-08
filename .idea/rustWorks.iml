@@ -2,9 +2,11 @@
 <module type="EMPTY_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/first_word/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/guessing_game/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/n_fibb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/temperature_conversion/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/first_word/target" />
       <excludeFolder url="file://$MODULE_DIR$/guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/n_fibb/target" />
       <excludeFolder url="file://$MODULE_DIR$/temperature_conversion/target" />

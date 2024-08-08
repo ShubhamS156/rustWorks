@@ -1,6 +1,6 @@
 use std::io;
 
-fn fib(n : u32) -> u32{
+fn fib(n :  u32) -> u32{
     
     if n == 0 {
         return 0;
