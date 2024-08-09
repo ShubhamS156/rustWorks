@@ -6,10 +6,12 @@
       <sourceFolder url="file://$MODULE_DIR$/guessing_game/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/n_fibb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/temperature_conversion/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/structs/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/first_word/target" />
       <excludeFolder url="file://$MODULE_DIR$/guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/n_fibb/target" />
       <excludeFolder url="file://$MODULE_DIR$/temperature_conversion/target" />
+      <excludeFolder url="file://$MODULE_DIR$/structs/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
